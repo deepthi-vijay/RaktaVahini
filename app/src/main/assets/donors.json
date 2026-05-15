@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "bloodGroup": "A+",
+    "location": "Mumbai",
+    "lastDonationDate": "2024-01-10",
+    "isAvailable": true,
+    "phoneNumber": "9876543211",
+    "latitude": 19.0760,
+    "longitude": 72.8777
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "bloodGroup": "B+",
+    "location": "Delhi",
+    "lastDonationDate": "2024-03-15",
+    "isAvailable": true,
+    "phoneNumber": "9876543212",
+    "latitude": 28.6139,
+    "longitude": 77.2090
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "bloodGroup": "O-",
+    "location": "Bangalore",
+    "lastDonationDate": "2023-11-20",
+    "isAvailable": false,
+    "phoneNumber": "9876543213",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "bloodGroup": "AB+",
+    "location": "Hyderabad",
+    "lastDonationDate": "2024-02-05",
+    "isAvailable": true,
+    "phoneNumber": "9876543214",
+    "latitude": 17.3850,
+    "longitude": 78.4867
+  },
+  {
+    "id": 5,
+    "name": "Vikram Malhotra",
+    "bloodGroup": "A-",
+    "location": "Pune",
+    "lastDonationDate": "2024-04-01",
+    "isAvailable": true,
+    "phoneNumber": "9876543215",
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  },
+  {
+    "id": 6,
+    "name": "Ananya Iyer",
+    "bloodGroup": "B-",
+    "location": "Chennai",
+    "lastDonationDate": "2023-12-25",
+    "isAvailable": true,
+    "phoneNumber": "9876543216",
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  },
+  {
+    "id": 7,
+    "name": "Rohan Das",
+    "bloodGroup": "O+",
+    "location": "Kolkata",
+    "lastDonationDate": "2024-02-18",
+    "isAvailable": true,
+    "phoneNumber": "9876543217",
+    "latitude": 22.5726,
+    "longitude": 88.3639
+  },
+  {
+    "id": 8,
+    "name": "Ishani Ghosh",
+    "bloodGroup": "AB-",
+    "location": "Ahmedabad",
+    "lastDonationDate": "2024-03-10",
+    "isAvailable": false,
+    "phoneNumber": "9876543218",
+    "latitude": 23.0225,
+    "longitude": 72.5714
+  },
+  {
+    "id": 9,
+    "name": "Karan Johar",
+    "bloodGroup": "A+",
+    "location": "Jaipur",
+    "lastDonationDate": "2024-01-25",
+    "isAvailable": true,
+    "phoneNumber": "9876543219",
+    "latitude": 26.9124,
+    "longitude": 75.7873
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "bloodGroup": "B+",
+    "location": "Kochi",
+    "lastDonationDate": "2023-10-15",
+    "isAvailable": true,
+    "phoneNumber": "9876543220",
+    "latitude": 9.9312,
+    "longitude": 76.2673
+  },
+  {
+    "id": 11,
+    "name": "Siddharth Jain",
+    "bloodGroup": "O-",
+    "location": "Indore",
+    "lastDonationDate": "2024-04-12",
+    "isAvailable": true,
+    "phoneNumber": "9876543221",
+    "latitude": 22.7196,
+    "longitude": 75.8577
+  },
+  {
+    "id": 12,
+    "name": "Tanya Gupta",
+    "bloodGroup": "AB+",
+    "location": "Lucknow",
+    "lastDonationDate": "2024-02-28",
+    "isAvailable": true,
+    "phoneNumber": "9876543222",
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "id": 13,
+    "name": "Arjun Kapoor",
+    "bloodGroup": "O+",
+    "location": "Chandigarh",
+    "lastDonationDate": "2024-01-05",
+    "isAvailable": false,
+    "phoneNumber": "9876543223",
+    "latitude": 30.7333,
+    "longitude": 76.7794
+  },
+  {
+    "id": 14,
+    "name": "Riya Sen",
+    "bloodGroup": "A-",
+    "location": "Bhopal",
+    "lastDonationDate": "2023-12-10",
+    "isAvailable": true,
+    "phoneNumber": "9876543224",
+    "latitude": 23.2599,
+    "longitude": 77.4126
+  },
+  {
+    "id": 15,
+    "name": "Varun Dhawan",
+    "bloodGroup": "B-",
+    "location": "Surat",
+    "lastDonationDate": "2024-03-22",
+    "isAvailable": true,
+    "phoneNumber": "9876543225",
+    "latitude": 21.1702,
+    "longitude": 72.8311
+  }
+]
